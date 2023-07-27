@@ -21,3 +21,6 @@ repositories:
   - prefix: vmware-tanzu
     urls:
       - https://vmware-tanzu.github.io/helm-charts
+  - prefix: dokify
+    urls:
+      - https://rafaelcalleja.github.io/helm-charts
